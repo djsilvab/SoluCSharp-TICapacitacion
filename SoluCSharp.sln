@@ -20,6 +20,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Eventos", "03.Eventos", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoluCSharp.Demo04.ConfPuebla", "SoluCSharp.Demo04.ConfPuebla\SoluCSharp.Demo04.ConfPuebla.csproj", "{D72D6B0A-EFE3-4A79-8CFF-907B51BA65A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoluCSharp.Demo05.ConfPuebla.Api", "SoluCSharp.Demo05.ConfPuebla.Api\SoluCSharp.Demo05.ConfPuebla.Api.csproj", "{F568BD5A-A6A2-4C79-843D-B46A163D2BAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,6 +48,10 @@ Global
 		{D72D6B0A-EFE3-4A79-8CFF-907B51BA65A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D72D6B0A-EFE3-4A79-8CFF-907B51BA65A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D72D6B0A-EFE3-4A79-8CFF-907B51BA65A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F568BD5A-A6A2-4C79-843D-B46A163D2BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F568BD5A-A6A2-4C79-843D-B46A163D2BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F568BD5A-A6A2-4C79-843D-B46A163D2BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F568BD5A-A6A2-4C79-843D-B46A163D2BAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
